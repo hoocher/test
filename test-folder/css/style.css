@@ -1,0 +1,27 @@
+.main-section {
+    width: 900pt;
+    height: 900pt;
+    display: flex;
+    flex-flow: row nowrap;
+    justify-content: center;
+}
+
+.left-side {
+    width: 400pt;
+    display: flex;
+    flex-flow: column nowrap;
+}
+
+.main-title {
+    text-align: center;
+}
+
+.main-button {
+    width: 300pt;
+}
+
+.right-side {
+    width: 400pt;
+    display: flex;
+    flex-flow: column;
+}
